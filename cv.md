@@ -5,7 +5,7 @@ Yury Yushkevich
 
 ![alt text][Photo]
 
-[Photo]: myPhotoX150.jpg "Photo"
+[Photo]: myPhotoX150.png "Photo"
 
 **Name**: Yury Yushkevich  
 **Address**: 22 Lenina Street, apt. 25, Minsk, 220101, Belarus  
