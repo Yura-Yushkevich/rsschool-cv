@@ -1,1 +1,1 @@
-rsschool-cv
+https://yura-yushkevich.github.io/rsschool-cv/cv
